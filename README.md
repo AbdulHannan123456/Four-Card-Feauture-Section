@@ -26,17 +26,17 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/screenshots/Desktop.jpg)<br />
+![](./images/screenshots/Desktop.png)<br />
 Desktop Layout
 
-![](./images/screenshots/Mobile.jpg)<br />
+![](./images/screenshots/Mobile.png)<br />
 Mobile Layout
 
 
 ### Links
 
 - Solution URL: [Github](https://github.com/AbdulHannan123456/Four-Card-Feauture-Section)
-- Live Site URL: [Github Pages](https://your-live-site-url.com)
+- Live Site URL: [Github Pages](https://abdulhannan123456.github.io/Four-Card-Feauture-Section/)
 
 ## My process
 
@@ -58,4 +58,4 @@ I want to work on my CSS Grids and Flexbox styles. I also want to work on using 
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@AbdulHannan123456](https://www.frontendmentor.io/profile/AbdulHannan123456)
