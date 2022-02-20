@@ -29,7 +29,7 @@ Users should be able to:
 ![](./images/screenshots/Desktop.png)<br />
 Desktop Layout
 
-![](./images/screenshots/Mobile.png)<br />
+<img src="images/screenshots/Mobile.png" width='150'  height="577.2"><br />
 Mobile Layout
 
 
