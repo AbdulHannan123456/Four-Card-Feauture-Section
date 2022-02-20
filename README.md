@@ -26,10 +26,10 @@ Users should be able to:
 
 ### Screenshot
 
-![](./Desktop.jpg)
+![](./images/screenshots/Desktop.jpg)<br />
 Desktop Layout
 
-![](Mobile.jpg)
+![](./images/screenshots/Mobile.jpg)<br />
 Mobile Layout
 
 
