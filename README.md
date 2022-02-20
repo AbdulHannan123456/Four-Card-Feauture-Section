@@ -29,13 +29,13 @@ Users should be able to:
 ![](./Desktop.jpg)
 Desktop Layout
 
-![](./Mobile.jpg)
+![](Mobile.jpg)
 Mobile Layout
 
 
 ### Links
 
-- Solution URL: [Github](https://your-solution-url.com)
+- Solution URL: [Github](https://github.com/AbdulHannan123456/Four-Card-Feauture-Section)
 - Live Site URL: [Github Pages](https://your-live-site-url.com)
 
 ## My process
